@@ -27,11 +27,11 @@ Build a machine learning classification model that predicts loan approval and de
 * Seaborn
 * Streamlit
 
-## Expected Outcome:
+### Expected Outcome:
 * A working loan approval prediction system with a deployed API/application.
 
 
-# Project 2: Customer Churn Prediction
+## Project 2: Customer Churn Prediction
 
 ## Objective
 
