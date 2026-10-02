@@ -33,6 +33,12 @@ Build a machine learning classification model that predicts loan approval and de
 
 ## Project 2: Customer Churn Prediction
 
+* Dataset Description 
+
+* Target variable is Churn : 0 --> Customer still using the service
+
+* 1 --> Customer has cancelled service 
+
 ## Objective
 
 Build a machine learning classification system that predicts whether a customer is likely to stop using a company's service.
